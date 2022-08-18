@@ -8,7 +8,7 @@ Project name: Tollgate Management & Toll-lane suggestion
 
 Group members:
               
-              -> Kakarla Venkata Sesha Sai Pavanteja
+              -> Kakarla Venkata Seshasai Pavanteja
               
               -> Kamalapuram Sreenivasulu Reddy
               
